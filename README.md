@@ -1,5 +1,5 @@
-```json
+```javascript
 {
-  message: "Hello World 👋"
+  "message": "Hello World 👋"
 }
 ```
